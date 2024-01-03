@@ -53,6 +53,7 @@ class MainActivity : AppCompatActivity() {
             add(Song("Funky New Year", "Eagles", 188))
         }
     }
+    
     companion object {
         const val SONG = "KEY1"
     }
