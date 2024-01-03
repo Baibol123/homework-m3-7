@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">homework-m3-7</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play">Now Playing</string>
+    <string name="talk_me">Talk Me Down</string>
+    <string name="blue_neighbourhood">Blue Neighbourhood</string>
+</resources>
